@@ -5,54 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36014fe0-0dfc-4010-8678-1dfc7d252580" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/APIs/ApiRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/APIs/CartApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/APIs/SpecBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Base/PageObjectBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Constants/APP_ENDPOINT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Constants/EndPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Constants/EnvTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/CustomType/CustomDataTableType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/CustomType/CustomParameterTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/ElementUtils/ElementUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Factory/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Hooks/CucumberHooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/LoginCredentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/AccntCreated_AE_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Cart_AskOMDCH_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Home_AE_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Login_AE_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/PageFactoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Product_AskOMDCH_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Signup_AE_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Runners/JunitRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Runners/TestngRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/AskOmDCHAdd2CartStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/AutomationExerciseRegistrationSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/CartStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/StoreStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/context/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/setup/CreateDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/utils/ConfigLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/utils/PropertyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/add_to_cart.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/prod_config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/stage_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
