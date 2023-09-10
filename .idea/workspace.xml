@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36014fe0-0dfc-4010-8678-1dfc7d252580" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/APIs/ApiRequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/APIs/CartApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/APIs/SpecBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Base/PageObjectBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Constants/APP_ENDPOINT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Constants/EndPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Constants/EnvTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/CustomType/CustomDataTableType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/CustomType/CustomParameterTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/ElementUtils/ElementUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Factory/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Hooks/CucumberHooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/LoginCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Objects/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/AccntCreated_AE_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Cart_AskOMDCH_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Home_AE_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Login_AE_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/PageFactoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Product_AskOMDCH_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Pages/Signup_AE_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Runners/JunitRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Runners/TestngRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/AskOmDCHAdd2CartStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/AutomationExerciseRegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/CartStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/Stepdefs/StoreStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/context/TestContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/setup/CreateDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/utils/ConfigLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/utils/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PractiseAutomation/utils/PropertyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/add_to_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/prod_config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/stage_config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UZYBwYkcS0ICz5Fjp3qHidVg9z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/AutomationPractice/CucumberSeleniumGridDocker/CucumberSeleniumGridDocker/src/test/java/PractiseAutomation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PractiseAutomation.Constants" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\AutomationPractice\CucumberSeleniumGridDocker\CucumberSeleniumGridDocker\src\test\resources" />
+      <recent name="F:\AutomationPractice\CucumberSeleniumGridDocker\CucumberSeleniumGridDocker\src\test\java\utils" />
+      <recent name="F:\AutomationPractice\CucumberSeleniumGridDocker\CucumberSeleniumGridDocker\src\test\java\Objects" />
+      <recent name="F:\AutomationPractice\CucumberSeleniumGridDocker\CucumberSeleniumGridDocker\src\test\java\Pages" />
+      <recent name="F:\AutomationPractice\CucumberSeleniumGridDocker\CucumberSeleniumGridDocker\src\test\java\ParameterTypeUtils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\AutomationPractice\CucumberSeleniumGridDocker\CucumberSeleniumGridDocker\src\test\resources\features" />
+      <recent name="F:\AutomationPractice\CucumberSeleniumGridDocker\CucumberSeleniumGridDocker\src\test\java\CustomType" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: add_to_cart (1)">
+    <configuration name="Feature: add_to_cart (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/add_to_cart.feature" />
+      <option name="GLUE" value="PractiseAutomation.CustomType PractiseAutomation.Hooks PractiseAutomation.Stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberSeleniumGridDocker" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: add_to_cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: add_to_cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/add_to_cart.feature" />
+      <option name="GLUE" value="CustomType Hooks Stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberSeleniumGridDocker" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: add_to_cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: register (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/register.feature" />
+      <option name="GLUE" value="CustomType Hooks Stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberSeleniumGridDocker" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: register" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Add to cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/add_to_cart.feature" />
+      <option name="GLUE" value="PractiseAutomation.CustomType PractiseAutomation.Hooks PractiseAutomation.Stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberSeleniumGridDocker" />
+      <option name="NAME_FILTER" value="^Add to cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add to cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add to cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestngRunnerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CucumberSeleniumGridDocker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PractiseAutomation.Runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PractiseAutomation.Runners" />
+      <option name="MAIN_CLASS_NAME" value="PractiseAutomation.Runners.TestngRunnerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: add_to_cart (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Add to cart" />
+        <item itemvalue="TestNG.TestngRunnerTest" />
+        <item itemvalue="Cucumber Java.Feature: register (1)" />
+        <item itemvalue="Cucumber Java.Feature: add_to_cart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36014fe0-0dfc-4010-8678-1dfc7d252580" name="Changes" comment="" />
+      <created>1693148439522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693148439522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.SocketException" package="java.net" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
